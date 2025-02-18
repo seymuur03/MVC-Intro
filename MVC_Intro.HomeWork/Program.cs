@@ -5,11 +5,14 @@ namespace MVC_Intro.HomeWork
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            builder.Services.AddControllersWithViews();
+            builder.Services.AddControllersWithViews(); 
+
             var app = builder.Build();
 
-            app.MapGet("/", () => "Hello World!");
-            app.MapDefaultControllerRoute();
+            app.UseRouting();
+            app.UseAuthorization();
+
+            app.MapDefaultControllerRoute(); 
 
             app.Run();
         }

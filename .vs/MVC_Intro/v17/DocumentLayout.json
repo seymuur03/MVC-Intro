@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\viewmodels\\doctordepartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\viewmodels\\doctordepartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\mvc_intro\\mvc_intro.homework\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37630-D1CF-42F5-B34B-3111C459029E}|MVC_Intro.HomeWork\\MVC_Intro.HomeWork.csproj|solutionrelative:mvc_intro.homework\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DoctorDepartments.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\ViewModels\\DoctorDepartments.cs",
-              "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\ViewModels\\DoctorDepartments.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\ViewModels\\DoctorDepartments.cs",
-              "RelativeToolTip": "MVC_Intro.HomeWork\\ViewModels\\DoctorDepartments.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T10:04:12.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Program.cs",
-              "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Program.cs",
-              "RelativeToolTip": "MVC_Intro.HomeWork\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T09:56:54.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "MVC_Intro.HomeWork\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T09:53:15.619Z",
+              "WhenOpened": "2025-02-18T19:01:50.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVC_Intro.HomeWork\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "MVC_Intro.HomeWork\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T09:36:37.158Z",
+              "WhenOpened": "2025-02-18T18:50:16.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVC_Intro.HomeWork\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T09:36:07.83Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_Intro.HomeWork\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T18:38:45.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Models\\Department.cs",
-              "RelativeToolTip": "MVC_Intro.HomeWork\\Models\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "MVC_Intro.HomeWork\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T09:34:06.238Z",
+              "WhenOpened": "2025-02-18T18:36:26.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Program.cs",
+              "RelativeToolTip": "MVC_Intro.HomeWork\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:31:30.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Intro.HomeWork\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:25:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\Models\\Doctor.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Models\\Doctor.cs",
               "RelativeToolTip": "MVC_Intro.HomeWork\\Models\\Doctor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T09:33:58.457Z",
+              "WhenOpened": "2025-02-18T18:18:26.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MVC_Intro.HomeWork\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\MVC_Intro\\MVC_Intro.HomeWork\\Models\\Department.cs",
+              "RelativeToolTip": "MVC_Intro.HomeWork\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:18:14.746Z",
               "EditorCaption": ""
             }
           ]

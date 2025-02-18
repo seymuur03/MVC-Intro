@@ -25,3 +25,4 @@ C:\Users\Hp\OneDrive\Desktop\Code Academy\Backend\MVC_Intro\MVC_Intro.HomeWork\o
 C:\Users\Hp\OneDrive\Desktop\Code Academy\Backend\MVC_Intro\MVC_Intro.HomeWork\obj\Debug\net8.0\MVC_Intro.HomeWork.pdb
 C:\Users\Hp\OneDrive\Desktop\Code Academy\Backend\MVC_Intro\MVC_Intro.HomeWork\obj\Debug\net8.0\MVC_Intro.HomeWork.genruntimeconfig.cache
 C:\Users\Hp\OneDrive\Desktop\Code Academy\Backend\MVC_Intro\MVC_Intro.HomeWork\obj\Debug\net8.0\ref\MVC_Intro.HomeWork.dll
+C:\Users\Hp\OneDrive\Desktop\Code Academy\Backend\MVC_Intro\MVC_Intro.HomeWork\obj\Debug\net8.0\MVC_Intro.HomeWork.sourcelink.json
